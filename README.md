@@ -12,4 +12,6 @@ A simple command-line app to track daily expenses, built with Python.
 ## How to run
 python main.py
 
+
 Built by Sadik Haque Alif
+
